@@ -1,6 +1,6 @@
 # Testing RabbitMQ
 
-[![N|Solid](https://www.rabbitmq.com/img/logo-rabbitmq.svg)](https://www.cypress.io/)
+[![N|Solid](https://www.rabbitmq.com/img/logo-rabbitmq.svg)](https://www.rabbitmq.com/)
 
 I created a project to show how to use the RabbitMQ sending and receiving messages. 
 

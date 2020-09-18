@@ -4,8 +4,8 @@
 
 I created a project to show how to use the RabbitMQ sending and receiving messages. 
 
-  - It will be send a message to RabbitMQ
-  - It will be read a message from RabbitMQ
+  - It will go to send a message to RabbitMQ
+  - It will do to read a message from RabbitMQ
 
 # How to use!
 
